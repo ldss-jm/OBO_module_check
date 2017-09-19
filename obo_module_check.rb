@@ -70,6 +70,7 @@ ownedmodules = ['Oxford bibliographies online (online collection). African Ameri
 'Oxford bibliographies online (online collection). Latin American studies',
 'Oxford bibliographies online (online collection). Latino studies',
 'Oxford bibliographies online (online collection). Linguistics',
+'Oxford bibliographies online (online collection). Literary and critical theory',
 'Oxford bibliographies online (online collection). Management',
 'Oxford bibliographies online (online collection). Medieval studies',
 'Oxford bibliographies online (online collection). Military history',
