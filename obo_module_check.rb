@@ -46,6 +46,7 @@ ownedmodules = ['Oxford bibliographies online (online collection). African Ameri
 'Oxford bibliographies online (online collection). African studies',
 'Oxford bibliographies online (online collection). American literature',
 'Oxford bibliographies online (online collection). Anthropology',
+'Oxford bibliographies online (online collection). Architecture, planning, and preservation',
 'Oxford bibliographies online (online collection). Art history',
 'Oxford bibliographies online (online collection). Atlantic history',
 'Oxford bibliographies online (online collection). Biblical studies',
